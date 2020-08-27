@@ -115,9 +115,13 @@ p {
 .preview-user-share {
     width: 30px;
     height: 30px;
-    background-color: hsl(214, 17%, 51%);
+    background-color: hsl(210, 46%, 95%)    ;
     border-radius: 15px;
     border: 0;
+}
+
+.preview-user-icon {
+    color: hsl(217, 19%, 35%);
 }
 
 footer {
